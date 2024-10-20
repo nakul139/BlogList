@@ -1,0 +1,8 @@
+.blog-item {
+  list-style-type: none;
+}
+.blog-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
