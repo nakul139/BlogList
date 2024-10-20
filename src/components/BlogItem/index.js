@@ -11,6 +11,7 @@ const BlogItem = props => {
         <p className="date">{publishedDate}</p>
       </div>
       <p className="description">{description}</p>
+    <hr/>
     </li>
   )
 }
